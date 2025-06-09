@@ -1,13 +1,14 @@
-# 写文件
+#zkj
+# 写文件 #####
 with open("example.txt", "w") as f:
     f.write("Hello, Python!\n")
 
-# 读文件
+# 读文件 #
 with open("example.txt", "r") as f:
     content = f.read()
     print(content)
 
-# 处理CSV
+# 处理CSV #
 import csv
 with open("data.csv", "w", newline="") as f:
     writer = csv.writer(f)

@@ -1,3 +1,4 @@
+#zkj
 # 简单装饰器
 def my_decorator(func):
     def wrapper():
@@ -12,7 +13,7 @@ def say_hello():
 
 say_hello()
 
-# 带参数的装饰器
+# 带参数的装饰器 ###
 def repeat(n):
     def decorator(func):
         def wrapper(*args, **kwargs):
