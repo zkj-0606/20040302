@@ -131,7 +131,7 @@ with torch.no_grad():
         outputs = chen(imgs)  
         loss = loss_fn(outputs, targets)  
         total_test_loss += loss.item()  
-        accuracy = (outputs.argmax(1) == targets).sum()  
+        accuracy = (outputs.argmax(1) == targets).sum()  ####
         total_accuracy += accuracy  
 
 print(f"Total test loss: {total_test_loss}")  
