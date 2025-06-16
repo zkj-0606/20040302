@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4941ac9-2009-4ce4-b7b4-cbf30fc8f98e" name="Changes" comment="it is my lab2">
-      <change afterPath="$PROJECT_DIR$/day1/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day1/zkj1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day1/zkj2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day1/zkj3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day1/zkj4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day1/zkj5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day1/zkj6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day1/zkj7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day1/zkj8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;zkj-0606&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/zkj-0606/20040302.git&quot;,
+    &quot;accountId&quot;: &quot;608b9f17-2a06-4e6f-ba72-e44ca0232af6&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -93,7 +97,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750037890034</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="it is my lab2">
+      <option name="closed" value="true" />
+      <created>1750039843395</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1750039843395</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
