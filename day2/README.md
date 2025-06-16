@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Fundamentals of Deep Learning
 (1) Overview of Deep Learning
 Definition: Deep learning is a branch of machine learning that constructs multi-layer neural network structures to learn complex patterns and features from data.
@@ -141,3 +142,6 @@ Summary
 Fundamentals of Deep Learning: Learned the basic concepts of neural networks, including neuron models, activation functions, loss functions, and optimization algorithms.
 Convolutional Neural Networks: Studied convolution operations, the structure of CNNs, and how to build and train CNN models.
 Model Training and Testing: Mastered dataset preparation, model training and testing processes, and how to visualize training using TensorBoard.# 20040302
+=======
+# 20040302
+>>>>>>> d671f18 (lab2)
